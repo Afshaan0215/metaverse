@@ -1,0 +1,361 @@
+ :root {
+    --theme-color: #FF7E02;
+    --theme-color2: #FFC010;
+    --title-color: #1C1121;
+    --body-color: #6C6C6C;
+    --dark-color: #1C1C1C;
+    --smoke-color: #f3f6f7;
+    --white-color: #ffffff;
+    --black-color: #000000;
+    --white-light-color: #c3c3c3;
+    --yellow-color: #fec624;
+    --success-color: #28a745;
+    --error-color: #dc3545;
+    --border-color: rgba(0,0,0,0.10);
+    --title-font: 'Play', sans-serif;
+    --body-font: 'Play', sans-serif; 
+    --icon-font: 'Font Awesome 5 Pro';
+    --main-container: 1640px;
+    --container-gutters: 1.5rem;
+    --section-space: 120px;
+    --section-space-mobile: 80px;
+    --section-title-space: 60px;
+    --ripple-ani-duration: 5s;
+} 
+ /* button {
+    background-color: magenta;
+    border: magenta;
+}
+.aside {
+    background-color: magenta;
+    padding: 10px;
+    padding-top: 15px;
+}
+
+
+.plugxr {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.iceland {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+.icelandtext {
+    background-color: #000000;
+}
+.newplugxr {
+    background-image: url("./images/index/bg-new-plugxr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.yourNFTs {
+    background-color: #000000;
+    height: 100vh;
+}
+.landowner {
+    background-image: url("./images/index/land-owner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+} 
+
+.globeDecentral {
+    position: absolute;
+    
+ } */
+/* .backgoundcolor{
+    background-image: url("./images/index/bg-banner.gif");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    color: var(--text-color);
+    text-align: center;
+}
+.toDullTheMain{
+    background-color: rgba(0, 0, 0, 0.628);
+    height: 100%;
+}
+.pinkTextInMain{
+    width: 80%;
+    background-color:var(--theme-color);
+}
+.textLightColor{
+    color: var(--text-color);
+}
+.secondgif{
+    background-image: url(./images/index/globe-decentral.png);
+    background-size: cover;
+}
+.plugxr{
+    background-image: url(./images/index/bg-plugxr.png);
+    background-size: cover;
+    height: 100%;
+}
+.globemarketplace{
+    background-image: url(./images/index/globe-marketplace-black.png);
+    background-size: cover;
+    height: 100%;
+    padding: -100%;
+}
+.plugnew{
+    background-image: url(./images/index/bg-new-plugxr.png);
+    background-size: cover;
+    height: 100%;
+}
+.humanBiengs{
+    background-image: url(./images/index/plat-with-nft.png);
+    background-size: cover;
+    height: 100%;
+}
+.landowner{
+    background-image: url(./images/index/land-owner.png);
+    background-size: cover;
+    height: 100%;
+}
+.yournftphoto{
+    background-image: url(./images/index/your-nft.png);
+    background-size: cover;
+    height: 100%;
+}
+.yournft{
+    height: 100%;
+
+}
+.snowwhite{
+    background-image: url(./images/index/info-plugxr.png);
+    background-size: cover;
+    height: 100%;
+} 
+
+:root{
+    --text-color:#FFFFFF;
+    --black-one:#000000;
+    --theme-color: rgba(223, 76, 186, 0.521);
+
+
+} */
+
+
+
+
+/* .backgoundcolorOfMainPage{
+    background-image: url("./images/index/bg-banner.gif");
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    color: var(--text-color);
+    text-align: center;
+}
+.toDullTheMain{
+    background-color: rgba(0, 0, 0, 0.628);
+    height: 100%;
+}
+.toDullTheMainTEXT{
+    background-color: rgba(0, 0, 0, 0.628);
+    height: 100%;
+}
+.pinkTextInMain{
+    width: 80%;
+    background-color:var(--theme-color);
+   
+}
+.textLightColor{
+    color: var(--text-color);
+}
+.secondgif{
+    background-image: url(./images/index/globe-decentral.png);
+    background-size: cover;
+}
+.plugxr{
+    background-image: url(./images/index/bg-plugxr.png);
+    background-size: cover;
+    height: 100%;
+}
+.globemarketplace{
+    background-image: url(./images/index/globe-marketplace-black.png);
+    background-size: cover;
+    height: 100%;
+    padding: -100%;
+}
+.plugnew{
+    background-image: url(./images/index/bg-new-plugxr.png);
+    background-size: cover;
+    height: 100%;
+}
+.humanBiengs{
+    background-image: url(./images/index/plat-with-nft.png);
+    background-size: cover;
+    height: 100%;
+}
+.landowner{
+    background-image: url(./images/index/land-owner.png);
+    background-size: cover;
+    height: 100%;
+}
+.yournftphoto{
+    background-image: url(./images/index/your-nft.png);
+    background-size: cover;
+    height: 100%;
+}
+.yournft{
+    height: 100%;
+
+}
+.snowwhite{
+    background-image: url(./images/index/info-plugxr.png);
+    background-size: cover;
+    height: 100%;
+}
+.pinkTextInMainpara{
+    width: 80%;
+    background-color:var(--theme-color);
+}
+@media(max-width:1000px){
+    .toDullTheMain{
+        display: none;
+    }
+    .pinkTextInMainpara{
+        width: 80%;
+        background-color:var(--theme-color);
+        margin: 10%;
+        padding:5%;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .pinkTextInMain{
+        width: 100%;
+        background-color:var(--theme-color);
+       
+    }
+}   */
+
+button {
+    background-color: fuchsia;
+}
+.navbar-left {
+    background-color: fuchsia;
+    /* width: 100%; */
+}
+.asideLeft {
+    background-image: url("./images/index/bg-banner.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+}
+.text {
+    text-align: center;
+    margin-bottom: 30%;
+}
+.web {
+    background-color: #000000;
+}
+.images {
+    background-image: url("./images/index/globe-decentral.png");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+.plugxr {
+    background-image: url("./images/index/bg-plugxr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.globe {
+    /* background-image: url("./images/index/globe-marketplace.png"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-color: #000000;
+}
+.globemarketplace {
+    height: 70%;
+}
+.newplug {
+    background-image: url("./images/index/bg-new-plugxr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.yourNFTs {
+    background-color: #000000;
+    /* height: 140vh; */
+}
+/* .avatar1 {
+    width: 50px;
+    height: 50px;
+} */
+.landowner {
+    background-image: url("./images/index/land-owner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.btn1 {
+    color: #ffffff;
+    background-color: rgb(44, 44, 215);
+    border-color: fuchsia;
+}
+.btn2 {
+    color: #ffffff;
+    border-color: fuchsia;
+}
+.token {
+    background-color: #000000;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 10px;
+}
+.td {
+    background-color: fuchsia;
+}
+.info {
+    background-image: url("./images/index/info-plugxr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.land {
+    background-color: #000000;
+}
+.footer {
+    background-color: rgb(15, 23, 15);
+}
+@media(max-width:500px){
+    .asiderow{
+        display: none;
+    }
+    /* .pinkTextInMainpara{
+        width: 80%;
+        background-color:var(--theme-color);
+        margin: 10%;
+        padding:5%;
+    } */
+    /* body{
+        overflow-x: hidden;
+    } */
+    /* .pinkTextInMain{
+        width: 100%;
+        background-color:var(--theme-color);
+       
+    } */
+}
